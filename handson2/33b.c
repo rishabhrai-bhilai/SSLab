@@ -3,7 +3,7 @@
 Name : 33b.c
 Author : Rishabh Rai
 Description : Write a program to communicate between two machines using socket.
-Date: 10th OCT, 2023.
+Date: 15th OCT, 2023.
 ============================================================================
 */
 #include <unistd.h>

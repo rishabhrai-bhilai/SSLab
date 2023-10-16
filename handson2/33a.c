@@ -2,9 +2,9 @@
 /*
 ============================================================================
 Name : 33a.c
-Author : Rishabh Rai
+Author : Rishabh Rai 
 Description : Write a program to communicate between two machines using socket.
-Date: 10th OCT, 2023.
+Date: 15th OCT, 2023.
 ============================================================================
 */
 
